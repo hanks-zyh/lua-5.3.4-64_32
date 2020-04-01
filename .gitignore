@@ -1,0 +1,4 @@
+*.o
+lua-5.3.4/src/lua
+lua-5.3.4/src/luac
+lua-5.3.4/src/liblua.a
