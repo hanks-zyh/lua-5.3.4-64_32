@@ -5,4 +5,4 @@ For installation instructions, license details, and
 further information about Lua, see doc/readme.html.
 
 ## 使用lua编译平台通用二进制文件
-src/lua ../buildfile.lua ~/work/autolite-lua/search/v8_1/search_fragment_view.lua  ~/work/autolite-lua/search/v8_1/search_fragment_view_dump5.lua
+src/lua ../buildfile.lua a.lua  a_dump.lua
